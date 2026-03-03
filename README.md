@@ -1,2 +1,3 @@
 # aula-excel
-Este repositório é para aula de excel.
+Este repositório é desenvolver habilidades da aula de excel.
+Para uma empresa de empresa de vela aromáticas, é necessário os seguintes tipos de controle: funcionários, materiais e produtos. A empresa, é uma associação que busca unir pessoas e recursos para vender e lucrar, para ganhar dinheiro. Para os funcionários, é necessário uma planilha para controle de horário de entradas, saídas e faltas. Todas as funções definidas, sendo sempre acompanhadas para ver se estão sendo cumpridas, e reuniões para analisar os desempenhos semanalmente. Para os materiais, anotar a quantidade de tecidos, botões, e todos os materiais necessários que entram e saem da empresa, juntamente com o valor os mesmos, e analisar o consumo para evitar desperdícios.
